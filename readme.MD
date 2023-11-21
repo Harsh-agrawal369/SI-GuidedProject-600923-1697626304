@@ -66,9 +66,9 @@ To use the Flask app:
 For any assistance or inquiries, feel free to contact the project creators:
 
 1. **Harsh Agrawal:** agrawalharsh831@gmail.com
-2. **Saumya Darshan Sukla:**
-3. **Utkarsh Shukla:**
-4. **Nysa Singh:**
+2. **Saumya Darshan Sukla:** soumyadarshan.sukla2021@vitstudent.ac.in
+3. **Utkarsh Shukla:** utkarshshukla939@gmail.com
+4. **Nysa Singh:** nysa.singh2021@vitstudent.ac.in
 
 ## Disclaimer
 
